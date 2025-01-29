@@ -3,8 +3,6 @@
 Analyzed enrollment data for Udemy Courses which included user engagement for the month of May 2024. Created an interactive PowerBI dashboard for temporal analysis, uncovering key trends that shape Udemy’s e-learning landscape. 🎓
 Understanding the dynamics of lead generation can help educators and e-learning platforms tailor their offerings, boost engagement, and design impactful courses.
 
-<html>
-  <img src = "C:\Users\Lenovo\Downloads\Lead_Insights_dashboard\Lead_Insights_dashboard-2.png">
-</html>
+<img src="file:///C:/Users/Lenovo/Downloads/Lead_Insights_dashboard/Lead_Insights_dashboard-2.png">
 
 
